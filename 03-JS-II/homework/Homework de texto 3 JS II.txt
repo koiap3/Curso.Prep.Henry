@@ -1,0 +1,11 @@
+-for
+ > Se usa para repetir una o más instrucciones las veces que se indique.
+
+-&&
+ > Tambien se le llama "Y" o "AND", se usa para cuando pones dos condiciones que tienen que cumplirse para que se ejecute el codigo indicado en el bloque.
+
+-||
+ > Tambien se le llama "O" u "OR", se usa para cuando pones dos condiciones que tan solo una de ellas se tenga que cumplir para que se ejecute el codigo indicado en el bloque.
+
+-!
+ > Se suele utilizar como signo de negacion, al ponerlo al principio de la expresion, esta se niega por lo tanto si era 'true' se convierte en 'false'.
