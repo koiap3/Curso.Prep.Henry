@@ -1,0 +1,15 @@
+-Variables:
+ > Las variables sirven almacenan cualquier tipo dato, ya sea un número o cadena de texto.
+
+-Strings:
+ > Es cualquier valor, un número, letra, cadenas de caracteres, entre "" o ''.
+
+-Funciones (argumentos, return)
+ > Una función es un conjunto de declaraciones para realizar una tarea en especifico, un argumento representa el valor que se pasa a un parámetro de procedimiento cuando se llama al procedimiento y
+   return finaliza la ejecución de la función y especifica un valor para ser devuelto.
+
+-Declaraciones if
+ > Una declaracion if es una condicional que es utilizada para tomar decisiones por ejemplo, si es que "x" es true pasara esto y si es false pasará otra cosa.
+
+-Valores booleanos (true, false)
+ > Se puede considerar 'true' cualquier número excepto el 0, un comillas vacias así '' o así "", etc.
