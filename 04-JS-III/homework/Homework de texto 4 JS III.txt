@@ -1,0 +1,4 @@
+-Arrays:
+ > Son una lista de elementos que pueden aceptar todos los tipos de datos o hasta pueden tener un
+ elemento que sea un arreglo, tambien se les puede considerar como contenedores de almacenamiento 
+ para colecciones de datos.
