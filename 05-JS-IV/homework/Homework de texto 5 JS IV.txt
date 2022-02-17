@@ -1,0 +1,22 @@
+-Objetos:
+ > Son contenedores de colecciones de datos como la matriz, excepto que en vez de contener multiples datos relacionados unos con otros,
+  este contiene mucha informacion sobre una sola cosa y ademas que se utiliza las llaves y no los corchetes.
+
+-Propiedades:
+ > Las propiedades son cada par de clave-valor que se contiene en un objeto, cada par se separa por comas y si es que el valor de una
+  propiedad es una funcion entonces a la propiedad se le llama metodo.
+
+-Métodos:
+ > Se le llama metodo a una funcion que esta establecida como valor de una propiedad de un objeto, tambien se le llama metodo a: 'length',
+ 'pop', 'push', etc.
+
+-Bucle for...in :
+ > Es para interar en cada par clave-valor en un objeto, con una matriz se itera guiandose del numero de indice en cambio con este se 
+  utiliza la declaracion de variable, la palabra clave 'in' y el nombre del objeto.
+
+-Notacion de puntos vs notacion de corchetes:
+ > Estos dos se utilizan para acceder a los valores llamando al nombre del objeto y la clave, pero esto se puede hacer de dos formas, una
+  es La notacion de corchetes o tambien llamada "Bracket Notation" que su sintaxis consiste en 'objeto['clave']' y lo otra es la notacion
+  de puntos o tambien llamada "Dot Notation" que su sintaxis consiste en 'objeto.clave', que es un poco más eficaz a la hora de acceder a 
+  un valor.
+
