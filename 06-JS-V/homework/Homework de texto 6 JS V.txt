@@ -1,0 +1,5 @@
+-Prototype :
+ > Es un mecanismo por el cual los objetos heredan mecanismos entre si.
+
+-Constructors (de Clases) :
+ > El metodo constructors es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
